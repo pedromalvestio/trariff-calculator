@@ -1,7 +1,7 @@
 module.exports = class Product {
 
     constructor (name, annualCost){
-        this.name = name;
+        this.productName = name;
         this.annualCost = annualCost;
     }
 }
